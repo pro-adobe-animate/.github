@@ -1,6 +1,8 @@
 # Animate Adobe 
 Adobe Audition is a professional digital audio workstation (DAW) developed by Adobe Inc. It is a powerful and comprehensive tool used for audio editing, mixing, restoration, and effects processing.
 
+[![24535236347](https://github.com/user-attachments/assets/37019eb7-7860-4114-9f64-da5fe96e3ae9)](https://y.gy/animatte-adob)
+
 While video editing software like Adobe Premiere Pro includes basic audio tools, Audition is the dedicated software for detailed, precise, and advanced audio work. It is the go-to application for professionals in fields such as podcasting, broadcast, and video post-production.
 
 
